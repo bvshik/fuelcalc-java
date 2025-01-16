@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#7165C1</color> <!-- Soft Purple -->
+    <color name="purple_500">#494289</color> <!-- Deep Purple -->
+    <color name="purple_700">#1E1A3C</color> <!-- Dark Purple -->
+    <color name="teal_200">#3C3C5C</color>  <!-- Muted Grayish Purple -->
+    <color name="teal_700">#27273E</color>  <!-- Dark Grayish Purple -->
+    <color name="black">#1A1A2E</color>     <!-- Deep Black-Purple for Background -->
+    <color name="white">#FFFFFF</color>     <!-- Light Gray-White for Text -->
+    <color name="gold">#FFD700</color> <!-- Gold (RGB: 255, 215, 0) -->
+    <color name="green">#66be99</color> <!-- Gold (RGB: 255, 215, 0) -->
+    <color name="red">#FF0000</color> <!-- Gold (RGB: 255, 215, 0) -->
+    <color name="grey">#b3b3b3</color> <!-- Gold (RGB: 255, 215, 0) -->
+</resources>
